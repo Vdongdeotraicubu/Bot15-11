@@ -1,0 +1,135 @@
+{
+    "total": [
+        {
+            "id": "61552442759752",
+            "count": 0
+        },
+        {
+            "id": "61553086066730",
+            "count": 0
+        },
+        {
+            "id": "100023250277879",
+            "count": 0
+        },
+        {
+            "id": "100067107285200",
+            "count": 0
+        },
+        {
+            "id": "100075534391123",
+            "count": 2
+        },
+        {
+            "id": "100078894906081",
+            "count": 1
+        },
+        {
+            "id": "100085996362458",
+            "count": 0
+        },
+        {
+            "id": "100089229288655",
+            "count": 0
+        },
+        {
+            "id": "100094019139311",
+            "count": 0
+        }
+    ],
+    "week": [
+        {
+            "id": "61552442759752",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "61553086066730",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100023250277879",
+            "count": 0,
+            "name": "Người dùng Facebook"
+        },
+        {
+            "id": "100067107285200",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100075534391123",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100078894906081",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100085996362458",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100089229288655",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100094019139311",
+            "count": 0,
+            "name": "Người dùng facebook"
+        }
+    ],
+    "day": [
+        {
+            "id": "61552442759752",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "61553086066730",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100023250277879",
+            "count": 0,
+            "name": "Người dùng Facebook"
+        },
+        {
+            "id": "100067107285200",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100075534391123",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100078894906081",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100085996362458",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100089229288655",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100094019139311",
+            "count": 0,
+            "name": "Người dùng facebook"
+        }
+    ],
+    "time": 3
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Haru Minh",
+    "ID": "100086181110938",
+    "mainROD": null,
+    "GPS": {
+        "locate": null,
+        "area": null
+    },
+    "fishBag": [
+        {
+            "ID": 0,
+            "name": "Cá Thách Đấu",
+            "category": "Legendary",
+            "size": 999999,
+            "sell": 0
+        }
+    ],
+    "item": [],
+    "timeRegister": "21:59:46, 17/2/2024"
+}

@@ -1,0 +1,121 @@
+{
+    "total": [
+        {
+            "id": "100023250277879",
+            "count": 0
+        },
+        {
+            "id": "100053516352944",
+            "count": 0
+        },
+        {
+            "id": "100066817110927",
+            "count": 0
+        },
+        {
+            "id": "100080816602563",
+            "count": 7
+        },
+        {
+            "id": "100084477934027",
+            "count": 5
+        },
+        {
+            "id": "100089438476334",
+            "count": 5
+        },
+        {
+            "id": "100092631581904",
+            "count": 0
+        },
+        {
+            "id": "100056766372016",
+            "count": 2
+        }
+    ],
+    "week": [
+        {
+            "id": "100023250277879",
+            "count": 0,
+            "name": "Người dùng Facebook"
+        },
+        {
+            "id": "100053516352944",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100066817110927",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100080816602563",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100084477934027",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100089438476334",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100092631581904",
+            "count": 0,
+            "name": "Tài Chika Nguyễn"
+        },
+        {
+            "id": "100056766372016",
+            "count": 0,
+            "name": "Người dùng facebook"
+        }
+    ],
+    "day": [
+        {
+            "id": "100023250277879",
+            "count": 0,
+            "name": "Người dùng Facebook"
+        },
+        {
+            "id": "100053516352944",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100066817110927",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100080816602563",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100084477934027",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100089438476334",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100092631581904",
+            "count": 0,
+            "name": "Tài Chika Nguyễn"
+        },
+        {
+            "id": "100056766372016",
+            "count": 0,
+            "name": "Người dùng facebook"
+        }
+    ],
+    "time": 3
+}

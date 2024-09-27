@@ -1,0 +1,93 @@
+{
+    "total": [
+        {
+            "id": "100036968461626",
+            "count": 10
+        },
+        {
+            "id": "100085003612648",
+            "count": 2
+        },
+        {
+            "id": "100085975175197",
+            "count": 0
+        },
+        {
+            "id": "100087290184495",
+            "count": 0
+        },
+        {
+            "id": "100089438476334",
+            "count": 32
+        },
+        {
+            "id": "100023250277879",
+            "count": 0
+        }
+    ],
+    "week": [
+        {
+            "id": "100036968461626",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100085003612648",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100085975175197",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100087290184495",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100089438476334",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100023250277879",
+            "count": 0,
+            "name": "Người dùng Facebook"
+        }
+    ],
+    "day": [
+        {
+            "id": "100036968461626",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100085003612648",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100085975175197",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100087290184495",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100089438476334",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100023250277879",
+            "count": 0,
+            "name": "Người dùng Facebook"
+        }
+    ],
+    "time": 3
+}

@@ -1,0 +1,275 @@
+{
+    "total": [
+        {
+            "id": "100023250277879",
+            "count": 5
+        },
+        {
+            "id": "100064867013476",
+            "count": 0
+        },
+        {
+            "id": "100070269368307",
+            "count": 67
+        },
+        {
+            "id": "100009353902077",
+            "count": 23
+        },
+        {
+            "id": "100092464946589",
+            "count": 96
+        },
+        {
+            "id": "100033553516741",
+            "count": 25
+        },
+        {
+            "id": "100087611807304",
+            "count": 78
+        },
+        {
+            "id": "100005384173463",
+            "count": 9
+        },
+        {
+            "id": "100080158563517",
+            "count": 19
+        },
+        {
+            "id": "100083549871226",
+            "count": 27
+        },
+        {
+            "id": "100070122377160",
+            "count": 6
+        },
+        {
+            "id": "100074151816722",
+            "count": 27
+        },
+        {
+            "id": "100056702266256",
+            "count": 36
+        },
+        {
+            "id": "100073070400184",
+            "count": 12
+        },
+        {
+            "id": "100011508462135",
+            "count": 8
+        },
+        {
+            "id": "100077207071640",
+            "count": 5
+        },
+        {
+            "id": "100073280512164",
+            "count": 9
+        },
+        {
+            "id": "100094078599526",
+            "count": 7
+        },
+        {
+            "id": "100026658670882",
+            "count": 4
+        }
+    ],
+    "week": [
+        {
+            "id": "100023250277879",
+            "count": 0,
+            "name": "Người dùng Facebook"
+        },
+        {
+            "id": "100064867013476",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100070269368307",
+            "count": 0,
+            "name": "TL Harvey"
+        },
+        {
+            "id": "100009353902077",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100092464946589",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100033553516741",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100087611807304",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100005384173463",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100080158563517",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100083549871226",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100070122377160",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100074151816722",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100056702266256",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100073070400184",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100011508462135",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100077207071640",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100073280512164",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100094078599526",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100026658670882",
+            "count": 0,
+            "name": "Người dùng facebook"
+        }
+    ],
+    "day": [
+        {
+            "id": "100023250277879",
+            "count": 0,
+            "name": "Người dùng Facebook"
+        },
+        {
+            "id": "100064867013476",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100070269368307",
+            "count": 0,
+            "name": "TL Harvey"
+        },
+        {
+            "id": "100009353902077",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100092464946589",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100033553516741",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100087611807304",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100005384173463",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100080158563517",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100083549871226",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100070122377160",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100074151816722",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100056702266256",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100073070400184",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100011508462135",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100077207071640",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100073280512164",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100094078599526",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100026658670882",
+            "count": 0,
+            "name": "Người dùng facebook"
+        }
+    ],
+    "time": 3
+}

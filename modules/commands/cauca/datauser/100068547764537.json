@@ -1,0 +1,117 @@
+{
+  "name": "Phuc Le",
+  "ID": "100068547764537",
+  "mainROD": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+  "GPS": {
+    "locate": "The Crater",
+    "area": "Lost River"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Cá Thách Đấu",
+      "category": "Legendary",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 2,
+      "name": "Bleeder",
+      "category": "Uncommon",
+      "size": 19,
+      "sell": 370,
+      "image": "https://i.imgur.com/EVAjNvI.png"
+    },
+    {
+      "ID": 3,
+      "name": "River Prowler",
+      "category": "Rare",
+      "size": 1100,
+      "sell": 4100,
+      "image": "https://i.imgur.com/vyRypZv.jpg"
+    },
+    {
+      "ID": 4,
+      "name": "River Prowler",
+      "category": "Rare",
+      "size": 1100,
+      "sell": 4100,
+      "image": "https://i.imgur.com/vyRypZv.jpg"
+    },
+    {
+      "ID": 5,
+      "name": "Mesmer",
+      "category": "Rare",
+      "size": 67,
+      "sell": 990,
+      "image": "https://i.imgur.com/UUfnPCp.png"
+    },
+    {
+      "ID": 6,
+      "name": "River Prowler",
+      "category": "Rare",
+      "size": 1100,
+      "sell": 4100,
+      "image": "https://i.imgur.com/vyRypZv.jpg"
+    },
+    {
+      "ID": 7,
+      "name": "Ghost Leviathan Juvenile",
+      "category": "Legendary",
+      "size": 6700,
+      "sell": 720500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 8,
+      "name": "Ghostray",
+      "category": "Uncommon",
+      "size": 250,
+      "sell": 990,
+      "image": "https://i.imgur.com/UC5HJWw.png"
+    },
+    {
+      "ID": 9,
+      "name": "Mesmer",
+      "category": "Rare",
+      "size": 67,
+      "sell": 990,
+      "image": "https://i.imgur.com/UUfnPCp.png"
+    },
+    {
+      "ID": 10,
+      "name": "Bleeder",
+      "category": "Uncommon",
+      "size": 19,
+      "sell": 370,
+      "image": "https://i.imgur.com/EVAjNvI.png"
+    },
+    {
+      "ID": 11,
+      "name": "Ghostray",
+      "category": "Uncommon",
+      "size": 250,
+      "sell": 990,
+      "image": "https://i.imgur.com/UC5HJWw.png"
+    }
+  ],
+  "item": [
+    {
+      "name": "Light Iron Harpoon",
+      "price": 4000,
+      "durability": 20,
+      "countdown": 300,
+      "countdownData": null,
+      "image": "https://i.imgur.com/gQuka5L.jpg"
+    },
+    {
+      "name": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+      "price": 16750000,
+      "durability": 59880,
+      "countdown": 0,
+      "countdownData": 1715004053700,
+      "image": "https://i.imgur.com/EDozSgg.jpg"
+    }
+  ],
+  "timeRegister": "23:55:16, 3/5/2024"
+}
